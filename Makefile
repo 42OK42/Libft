@@ -6,12 +6,11 @@
 #    By: okrahl <okrahl@student.42.fr>              +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2023/05/11 14:20:12 by okrahl            #+#    #+#              #
-#    Updated: 2024/07/15 14:37:19 by okrahl           ###   ########.fr        #
+#    Updated: 2024/07/25 15:41:08 by okrahl           ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
 SRCS			=	ft_isalnum.c\
-				ft_strncpy.c \
 				ft_isprint.c\
 				ft_bzero.c\
 				ft_isalpha.c\
@@ -25,6 +24,7 @@ SRCS			=	ft_isalnum.c\
 				ft_strlcat.c\
 				ft_toupper.c\
 				ft_tolower.c\
+				ft_strncpy.c\
 				ft_strchr.c\
 				ft_strrchr.c\
 				ft_memcmp.c\
